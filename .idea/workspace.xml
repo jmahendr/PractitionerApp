@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a9345c-7b40-4365-b987-e5d91602a15a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="D:/MyDriveSync/Spring Projects/Practitioner/PractitionerApp/PractitionerApp/practitioner-services/target/" />
+    <ignored path="$PROJECT_DIR$/practitioner-business-services/target/" />
+    <ignored path="D:/MyDriveSync/Spring Projects/Practitioner/PractitionerApp/PractitionerApp/skills-services/target/" />
+    <ignored path="$PROJECT_DIR$/practitioner-services/target/" />
+    <ignored path="$PROJECT_DIR$/skill-services/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/practitioner-webapp/target/" />
+    <ignored path="$PROJECT_DIR$/practitionerskill-business-services/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>skills-services</find>
+      <find>com.quarks.services</find>
+      <find>neo</find>
+      <find>practitioner</find>
+      <find>feign</find>
+      <find>boot</find>
+      <find>spring-clo</find>
+      <find>PRACTITIONERSERVICES</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.quarks.practitionerapp.services</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\PractitionerApp\skill-services</dir>
+      <dir>D:\PractitionerApp</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/Studio/Architecture Team/demo/transform-level2-ref-impl" value="PREVIEW" />
+        <entry key="D:/Studio/Architecture Team/demo/transform-level2-ref-impl-master/transform-level2-ref-impl-master" value="PREVIEW" />
+        <entry key="D:/Studio/Architecture Team/skateboard/cognizant-transform-skateboard" value="PREVIEW" />
+        <entry key="D:/Studio/Product Transitions/ADPART/CIQD_WEB/CIQD_WEB" value="PREVIEW" />
+        <entry key="D:/practitioner/ciqd-sampleref-service" value="PREVIEW" />
+        <entry key="D:/transform-level1-ref-impl" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitioner/domain/Practitioner.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitioner/client/PractitionerService.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitioner/client/SkillService.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitioner/PractitionerSkillBusinessProcess.java" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/quarks/practitionerapp/service/discovery/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-server/src/test/java/com/quarks/practitionerapp/service/discovery/EurekaServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/quarks/practitionerapp/service/config/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/config-server/src/test/java/com/quarks/practitionerapp/service/config/ConfigServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/config/practitionerservices.properties" />
+        <option value="$PROJECT_DIR$/config/skillservices.properties" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/skill-services/src/test/java/com/quarks/practitionerapp/services/skill/SkillServicesApplicationTests.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/practitionerskill-business-services/pom.xml" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/PractitionerSkillBusinessProcess.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/PractitionerSkillController.java" />
+        <option value="$PROJECT_DIR$/practitioner-services/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/config/practitionerbusinessservices.properties" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/practitioner-services/pom.xml" />
+        <option value="$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/domain/Practitioner.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/repository/SkillRepository.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/skill-services/pom.xml" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/SkillServicesApplication.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/Practitioner.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/SkillRelationship.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/SkillPractitionerRelationship.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/Skill.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/Repository/SkillRepository.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/pom.xml" />
+        <option value="$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/repository/PractitionerRepository.java" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/controller/PractitionerController.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/client/PractitionerService.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/controller/SkillController.java" />
+        <option value="$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/service/PractitionerService.java" />
+        <option value="$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/service/SkillService.java" />
+        <option value="$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/client/SkillService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1363" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerskill" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-business-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerskill" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="practitioner-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="skill" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="skill" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="skill" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="skill" type="462c0819:PsiDirectoryNode" />
+              <item name="Repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PractitionerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PractitionerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="skill-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="quarks" type="462c0819:PsiDirectoryNode" />
+              <item name="practitionerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="skill" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.73485714" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PractitionerApp\practitioner-business-services\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PractitionerApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EurekaServerApplication">
+    <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quarks.practitionerapp.service.config.ConfigServerApplication" />
+      <module name="config-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quarks.practitionerapp.service.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quarks.practitionerapp.service.discovery.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quarks.practitionerapp.service.discovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PractitionerServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quarks.practitionerapp.services.practitioner.PractitionerServicesApplication" />
+      <module name="practitioner-services" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quarks.practitionerapp.services.practitioner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SkillServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quarks.practitionerapp.services.skill.SkillServicesApplication" />
+      <module name="skill-services" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quarks.practitionerapp.services.skill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigServerApplication" />
+      <item itemvalue="Application.PractitionerServicesApplication" />
+      <item itemvalue="Application.SkillServicesApplication" />
+      <item itemvalue="Application.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaServerApplication" />
+        <item itemvalue="Application.ConfigServerApplication" />
+        <item itemvalue="Application.PractitionerServicesApplication" />
+        <item itemvalue="Application.SkillServicesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a9345c-7b40-4365-b987-e5d91602a15a" name="Default" comment="" />
+      <created>1568180416236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568180416236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.34819898" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38421956" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32920355" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40468988" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:/" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/client/SkillService.java</url>
+          <line>12</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/practitioner-services/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/domain/Skill.java" />
+    <entry file="file://$PROJECT_DIR$/config-server/config-server.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/test/java/com/quarks/practitionerapp/services/skill/SkillServicesApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/test/java/com/quarks/practitionerapp/service/discovery/EurekaServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitionerskill-business-services/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/config-server/src/test/java/com/quarks/practitionerapp/service/config/ConfigServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-webapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="75" />
+          <folding>
+            <element signature="n#properties#0;n#project#0;n#!!top" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-367">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_PractitionerApp (2).zip/PractitionerApp/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/SkillRelationship.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_PractitionerApp (2).zip/PractitionerApp/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/Skill.java" />
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_PractitionerApp (2).zip/PractitionerApp/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/repository/SkillRepository.java" />
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/Skill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/SkillPractitionerRelationship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/domain/Practitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="80" selection-start-line="27" selection-start-column="6" selection-end-line="80" />
+          <folding>
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#7;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#8;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#9;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#10;n#dependencies#0;n#project#0;n#!!top" />
+            <element signature="n#dependency#11;n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/skillservices.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/practitionerservices.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/practitionerbusinessservices.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/domain/Practitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/PractitionerSkillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/quarks/practitionerapp/service/config/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="45" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/PractitionerSkillBusinessProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/PractitionerServicesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/quarks/practitionerapp/service/discovery/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/domain/Practitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/repository/PractitionerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/controller/PractitionerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="31" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/controller/SkillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/Repository/SkillRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/SkillServicesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-services/src/main/java/com/quarks/practitionerapp/services/practitioner/service/PractitionerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill-services/src/main/java/com/quarks/practitionerapp/services/skill/service/SkillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/client/PractitionerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practitioner-business-services/src/main/java/com/quarks/practitionerapp/business/practitionerskill/client/SkillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.73485714" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.73485714" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practitioner-webapp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.73485714" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.73485714" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
